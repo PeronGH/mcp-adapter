@@ -1,10 +1,11 @@
 {
   "name": "@pixel/mcp-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "exports": "./mod.ts",
   "imports": {
     "@modelcontextprotocol/sdk": "npm:@modelcontextprotocol/sdk@^1.13.3",
     "fetch-to-node": "npm:fetch-to-node@^2.1.0"
-  }
+  },
+  "lock": false
 }
